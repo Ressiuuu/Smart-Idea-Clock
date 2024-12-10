@@ -58,3 +58,10 @@
 3. **ESP2 gagal mengirim data ke ESP1**  
    - Pastikan ESP2 terhubung ke jaringan WiFi yang sama dengan ESP1.  
    - Periksa protokol komunikasi yang digunakan untuk pengiriman data.
+
+
+### Foto Rangkaian : 
+![image](https://github.com/user-attachments/assets/4492a98e-fa02-4351-ae3d-d2f75b349012)
+![image](https://github.com/user-attachments/assets/f26215e6-eb9a-49b4-bae7-ff9721699eae)
+![image](https://github.com/user-attachments/assets/763db7c7-743b-4fd6-a66a-301e7b593bc5)
+
